@@ -1,4 +1,5 @@
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verticous&theme=tokyonight)
 ---
-![](https://komarev.com/ghpvc/?verticous&color=green)
+![](https://komarev.com/ghpvc/?username=verticous&color=dc143c)
+
