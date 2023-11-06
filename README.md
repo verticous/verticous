@@ -7,17 +7,17 @@
 </p>
 
 <p align="center">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+    <img src="https://img.shields.io/badge/Windows-00A7FF?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+</p>
+
+<p align="center">
 Larning:
 </p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/HTML%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/JS%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-    <img src="https://img.shields.io/badge/Windows-00A7FF?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 </p>
 
 <p align="center">
