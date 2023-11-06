@@ -3,6 +3,8 @@
     <img src="https://img.shields.io/badge/C%23-%2339AF0D.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="++">
     <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src=https://img.shields.io/badge/Assembly-%23A8B9CC.svg?style=for-the-badge&logo=assembly&logoColor=white" alt="">
+
 </p>
 
 <p align="center">
