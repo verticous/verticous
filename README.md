@@ -16,7 +16,7 @@ Larning:
 
 <p align="center">
     <img src="https://img.shields.io/badge/HTML%20-%2300599C.svg?style=for-the-badge&logo=html%2B%2B&logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/JS%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+    <img src="https://img.shields.io/badge/JS%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="">
 </p>
 
 <p align="center">
