@@ -15,8 +15,8 @@ Larning:
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/javascript%23-%f1c232.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-</p>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+ </p>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=verticous&style=for-the-badge" alt="Profile Views">
