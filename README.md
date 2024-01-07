@@ -3,8 +3,7 @@
     <img src="https://img.shields.io/badge/C%23-%2339AF0D.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/bash%20-%2314354C.svg?style=for-the-badge&logo=bash&logoColor=white" alt="Bash">
-    [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
 </p>
 
 <p align="center">
